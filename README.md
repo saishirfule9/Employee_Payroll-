@@ -15,7 +15,7 @@ The application can be extended later with database integration or a web interfa
 
 1) Add employees with name, ID, role and salary
 
-2) View all employee records
+2) View all employee record
 
 3) Search for an employee by ID
 
